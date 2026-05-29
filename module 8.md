@@ -1,6 +1,6 @@
 ## EXP NO 2A : C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
-## NAME : DILLIGANESAN K
-## REG NO : 212224100014
+## NAME : HARISH R
+## REG NO : 212224060095
 
 ## Aim:
 To write a C program print the lowercase English word corresponding to the number
