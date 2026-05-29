@@ -1,6 +1,6 @@
 ## EXP NO 1A : C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
-## NAME : DILLIGANESAN K
-## REG N0 : 212224100014
+## NAME : HARISH R
+## REG N0 : 212224060095
 
 ## Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
